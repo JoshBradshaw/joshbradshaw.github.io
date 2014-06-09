@@ -3,26 +3,13 @@ layout: page
 title: About Me
 ---
 
-I'm a Systems Design engineering student at the University of Waterloo
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a student at the University of Waterloo, currently pursuing a bachelor's degree in Systems Design Engineering. I love learning, and hope to eventually work in research. My favorite courses are in the fields of physics and computer science. I like to delve deeply into topics, dividing and conquering each piece until I'm able to make useful extensions on the ideas.  
 
-There are currently two themes built on Poole:
+## Arts
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I play the saxophone, and the clarinet. For several years I used busked in the Dundas town square in an effort to simultaniously overcome my shyness and finance my equipment.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Adventure
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I love to hike, mountain bike, climb and occasionally paddle. I'm passionate about nature, and I spend as much time outdoors as possible.
