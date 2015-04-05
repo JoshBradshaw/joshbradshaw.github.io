@@ -1,25 +1,61 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Harmony Jekyll theme general configurations 
+
+# Base URL
+baseurl: 
+
+# Site live URL
+# url: http://gayan.me
+
+# Localhost 
+url: http://127.0.0.1:4000  
+
+# Harmony theme configuration. Please change accordingly.
+harmony:
+  name: Josh Bradshaw
+  # Little description about your site
+  description: 
+  # 'meta_description:' Write an awesome description for your new site here.
+  # It will appear in your document head meta (for Google search results) and 
+  # in your feed.xml site description.
+  meta_description: 
+  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  author: # Author details
+    name: Gayan Virajith
+    email: gayanvirajith@gmail.com
+    url: http://gayanvirajith.github.io
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-xxxx-x
+
+  # Profile links, leave blank to ignore
+  social: 
+    github: JoshBradshaw
+    twitter: 
+    facebook: 
+    gplus: 
+    dribble: 
+    pinterest: 
+  # Toggle disclaimer in footer
+  show_disclaimer: true
+
+# Conversion / Build settings 
+markdown:    kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: pygments 
 
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            'Joyful Misadventures'
-tagline:          'A collection of musings.'
-description:      'A collection of musings.'
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
 
-author:
-  name:           'Josh Bradshaw'
-
-paginate:         1
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/JoshBradshaw
-
-docs:
-  resume:         /docs/Josh-Bradshaw-Resume.pdf
+# Sass conversion configs
+sass:
+    sass_dir: assets/css/_sass
+    style: :compressed
