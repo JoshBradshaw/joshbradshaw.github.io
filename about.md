@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Josh Bradshaw
+title: About Me
 permalink: index.html
 ---
 
