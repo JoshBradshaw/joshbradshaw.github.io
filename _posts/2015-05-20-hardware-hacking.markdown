@@ -34,7 +34,7 @@ If you build your prototype using some combination of a breadboard and a develop
 3. If you're ambitious, you can have a PCB board manufactured for your project. Follow [this PCB tutorial](https://www.youtube.com/watch?v=1AXwjZoyNno). You can have your PCBs manufactured for $22/each at Advanced Circuits with one week turn around, $10/batch from iTead with a longer turnaround, or on campus at the 3D printing center.
 
 
-Further reading:
+## Further reading:
 
 1. [Sparkfun Electronics Tutorials](https://www.sparkfun.com/tutorials)
 2. [Adafruit Tutorials](https://learn.adafruit.com/)
