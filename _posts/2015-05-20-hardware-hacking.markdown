@@ -12,7 +12,7 @@ In this post I give practical advice about how to assemble a reliable and aesthe
 
 ## Power Supplies
 
-In Orion's lab, we powered our circuits using high quality linear power supplies. Those power supplies have two advantages over cheap power supplies. They are low noise, and they provide an output voltage that doesn't drift over time. Power supplies with those two advantages tend to me expensive. When working on a budget you essentially have two power supply options:
+In Orion's lab, we powered our circuits using high quality linear power supplies. Those power supplies have two advantages over cheap power supplies. They are low noise, and they provide an output voltage that doesn't drift over time. Power supplies with those two advantages tend to be expensive. When working on a budget you essentially have two power supply options:
 
 1. Switch mode power supplies, like the ones that you use to power your phone and laptop. Switch mode supplies have noisy voltage outputs. If not filtered out, this output voltage noise will disrupt your analog circuitry. If you're using switch mode supplies, use [bypass capacitors](http://www.seattlerobotics.org/encoder/jun97/basics.html) and [voltage regulators](https://www.sparkfun.com/products/107) to reduce power supply noise.
 2. Batteries are nearly ideal voltage sources, with the obvious drawback that they run dead. Before choosing a battery solution, you need to carefully consider the power consumption of your circuit (the simplest way is to power it up, measure the current it draws and use P=VI). Also, look at the data-sheets of your components to see whether or not they will continue to work when the battery voltage eventually drops.
