@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Jekyll!"
+title:  IBP Transducer Amplifier Build
 date:   2015-04-14 22:48:45
 description: Quick post describing the design process for an MRI compatible IBP transducer amplifier, which I built hastily in preparation for an experiment.
 categories:
