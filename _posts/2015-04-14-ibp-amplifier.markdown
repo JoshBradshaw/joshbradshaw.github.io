@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "What is Jekyll!"
+date:   2015-04-14 22:48:45
+description: Quick post describing the design process for an MRI compatible IBP transducer amplifier, which I built hastily in preparation for an experiment.
+categories:
+- Instrumentation
+- MRI
+---
+
 NOTE: THIS BLOG POST IS STILL UNDER CONSTRUCTION, PENDING APPROVAL TO PUBLISH THE FIGURES
 
 This is the last week of my co-op term at SickKids, so I decided to tackle a fun little project. The goal was to interface the Transpac IV invasive blood pressure transducer with my invasive blood pressure triggering unit. The Transpac IV is marketed as being 'MRI compatible' which is a slightly misleading term, because MRI compatibility means only that the sensor is safe to operate in the MRI scanner, not that it will function or operate within its specifications.
