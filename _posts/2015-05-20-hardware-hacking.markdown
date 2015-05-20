@@ -35,6 +35,7 @@ If you build your prototype using some combination of a breadboard and a develop
 
 
 Further reading:
+
 1. [Sparkfun Electronics Tutorials](https://www.sparkfun.com/tutorials)
 2. [Adafruit Tutorials](https://learn.adafruit.com/)
 3. [The Signal Blog](https://e2e.ti.com/blogs_/archives/b/thesignal/)
