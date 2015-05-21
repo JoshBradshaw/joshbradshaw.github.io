@@ -33,4 +33,3 @@ To reduce the effect of the MRI scanner's RF interference I revised the circuit 
 [insert figure for second circuit]
 
 I built this circuit and tested it in the MRI.
-

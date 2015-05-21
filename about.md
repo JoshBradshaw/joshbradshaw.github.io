@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Me
+title: About me
 permalink: index.html
 ---
 
 Hello! I'm an aspiring medical device designer. I'm currently studying systems design engineering at the University of Waterloo, with a focus on biomedical signal processing and instrumentation. 
 
-## Selected Projects:
+## Selected projects:
 
-#### [Arterial Blood Pressure Triggering System](http://joshbradshaw.github.io/Arterial-BP-MRI-Triggering-Unit/)
+#### [Arterial blood pressure triggering system](/abpt.html)
 
-#### [ECG Monitor](https://github.com/JoshBradshaw/ECG-monitor)
+#### [ECG monitor](https://github.com/JoshBradshaw/ECG-monitor)
 
-#### [WatSat: Cube Satellite Student Design Project](http://watsat.ca/)
+#### [WatSat: cube satellite student design project](http://watsat.ca/)
