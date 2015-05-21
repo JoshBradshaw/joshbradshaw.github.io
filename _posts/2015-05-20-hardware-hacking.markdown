@@ -16,7 +16,7 @@ Enclosures transform your sketchy prototype into a nice looking product. At Sick
 
 ## Soldering
 
-Soldering is the method you use to transform a breadboard circuit model into a more reliable prototype. [Follow the instructions in this video](https://www.youtube.com/watch?v=fYz5nIHH0iY). I recommend making a few practice joints before you begin. Orion can probably give you some broken boards and parts to play with. When you're done soldering, use alcohol wipes to clean the board, because otherwise the leftover flux will cause corrosion.
+Soldering is the method you use to transform a breadboard circuit model into a reliable prototype. [Follow the instructions in this video](https://www.youtube.com/watch?v=fYz5nIHH0iY). I recommend making a few practice joints before you begin. Orion can probably give you some broken boards and parts to play with. When you're done soldering, use alcohol wipes to clean the board, because otherwise the leftover flux will cause corrosion.
 
 ## PCBs and Connectors
 
