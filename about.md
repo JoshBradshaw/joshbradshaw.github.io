@@ -10,4 +10,6 @@ Hello! I'm an aspiring medical device designer. I'm currently studying systems d
 
 #### [Arterial Blood Pressure Triggering System](http://joshbradshaw.github.io/Arterial-BP-MRI-Triggering-Unit/)
 
+#### [ECG Monitor](https://github.com/JoshBradshaw/ECG-monitor)
+
 #### [WatSat: Cube Satellite Student Design Project](http://watsat.ca/)
