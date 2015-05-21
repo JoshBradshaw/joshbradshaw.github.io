@@ -12,10 +12,10 @@ In this post I give practical advice about how to assemble a reliable and aesthe
 
 ## Power Supplies
 
-Budget power supplies do not perform as well as the high quality units that we have in the SYDE lab.
+Budget power supplies do not perform as well as the high quality units that we have in the SYDE lab. Assuming that you have a relatively low budget, you will probably want to go with one of the following options:
 
-1. Switch mode power supplies, like the ones that you use to power your phone and laptop. Switch mode supplies have noisy voltage outputs. If not filtered out, this output voltage noise can disrupt your analog circuitry. If you're using switch mode supplies, use [bypass capacitors](http://www.seattlerobotics.org/encoder/jun97/basics.html) and [voltage regulators](https://www.sparkfun.com/products/107) to reduce power supply noise.
-2. Batteries are nearly ideal voltage sources, with the obvious drawback that they run dead. Before choosing a battery solution, you need to carefully consider the power consumption of your circuit (the simplest way is to power it up, measure the current it draws and use P=VI). Also, look at the data-sheets of your components to see whether or not they will continue to work when the battery voltage eventually drops.
+1. Switch mode power supplies, like the ones that used to power laptops and cellphone chargers. Switch mode supplies have relatively noisy voltage outputs, which can propagate through your analog circuitry and disrupt your sensor readings. If you're using switch mode supplies, use [bypass capacitors](http://www.seattlerobotics.org/encoder/jun97/basics.html) and [voltage regulators](https://www.sparkfun.com/products/107) to reduce power supply noise.
+2. Batteries are nearly ideal voltage sources, with the obvious drawback that they run dead. Before choosing a battery solution, you need to carefully consider the power consumption of your circuit (the simplest to check is to power it up, measure the current it draws and use P=VI). Also, look at the datasheets of your components to see whether or not they will continue to work when the battery voltage eventually drops.
 
 ## Enclosures
 
