@@ -23,7 +23,7 @@ My job was to design an interface between the blood pressure transducer and the 
 
 #### The design
 
-I designed and built the device during my co-op term, and by the end of the term I had tested it successfully twice in a surgical setting. It is currently being used in a series of experiments at SickKids, and the design has been open-sourced so that other researchers can adapt it for their own experiments.
+I designed and built and extensively tested the device over the course of one four month co-op term. It is currently being used in a series of experiments at SickKids, and the design has been open-sourced so that other researchers can adapt it for their own experiments.
 
 Resources:
 
