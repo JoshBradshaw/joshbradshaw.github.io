@@ -9,7 +9,7 @@ categories:
 - MRI
 ---
 
-The Arterial Blood Pressure Triggering System was my primary project during my four month co-op term in Dr. Chris Macgowan's MRI lab at SickKids. Chris hired me because he needed instrumentation to synchronize MRI scans with the motion of fetal pig hearts, but the only solutions available cost >$20,000 and were not guaranteed to work.
+The Arterial Blood Pressure Triggering System was my primary project during my four month co-op term in Dr. Chris Macgowan's MRI lab at SickKids. Chris hired me because he needed instrumentation to synchronize MRI scans with the motion of fetal pig hearts, but the only solutions available costed >$25,000 and were not guaranteed to work.
 
 #### Learning about the setting
 
@@ -19,7 +19,7 @@ To gain a better understanding of the unique challenges associated with MRI rese
 
 MRI scanners take a significant amount of time to acquire enough signal for a diagnostic quality image. This means that to image a heart, which is constantly in motion, the MRI scanner must be synchronized with the cardiac and respiratory motion. In adults, we either use ECG or pulse oximeter to obtain the synchronization signal. In the case of the fetal imaging experiment, neither of these techniques were viable options, so in coordination with the cardiology department, we opted to use invasive blood pressure transducers for the cardiac monitoring. 
 
-My job was to design an interface between the blood pressure transducer and the MRI scanner, providing a continuous real-time synchronization signal. I was also tasked with making an interface so that the experimenters and surgeons could monitor the pig's heart rate and blood pressure, so that they can identify and deal with any abnormalities or lapses in synchronization as they happen.
+My job was to design an interface between the blood pressure transducer and the MRI scanner, to provide a continuous real-time synchronization signal. I was also tasked with making an interface so that the experimenters and surgeons could monitor the pig's heart rate and blood pressure, so that they can identify and deal with any abnormalities or lapses in synchronization.
 
 #### The design
 
