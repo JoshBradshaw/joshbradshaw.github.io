@@ -12,6 +12,6 @@ Over the last year, I've become enamored with the fringe sport of slackline. I b
 
 On my last weekend in the city, my friends took me highlining for the first time. We put the highline up in two trees on the Toronto waterfront I only managed to cross 1/3rd of the line, but it was an absolute blast. Here's a photo of one of my better efforts.
 
-![](midline-photo.jpg)
+![](/assets/img/midline-photo.jpg)
 
 When I returned to uWaterloo, I needed to keep slacklining, so I decided to start a [community for slackliners in the KW area](https://www.facebook.com/groups/646764172125480/). I hold events every Friday, from 3pm to dusk, and everyone is welcome to come join us.
