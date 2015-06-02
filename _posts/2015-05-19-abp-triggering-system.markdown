@@ -13,13 +13,13 @@ The Arterial Blood Pressure Triggering System was my primary project during my f
 
 #### The problem
 
-MRI scanners take a significant amount of time to acquire enough signal for a diagnostic quality image. This means that to image a heart, which is constantly in motion, the MRI scanner must be synchronized with the cardiac and respiratory motion. In adults, we either use ECG or a pulse oximeter to obtain the synchronization signal. In the case of the fetal imaging experiment, neither of these techniques were viable, so we opted to do the cardiac monitoring using invasive blood pressure transducers. 
+MRI scanners take a significant amount of time to acquire enough signal for a diagnostic quality image. This means that to image a heart, which is constantly in motion, the MRI scanner must be synchronized with the cardiac and respiratory motion. In the case of the fetal imaging experiment, neither of these techniques were viable, so we opted to do the cardiac monitoring using invasive blood pressure transducers. 
 
 My job was to design a system to convert the invasive blood pressure signal into a real-time synchronization signal for the MRI scanner. I was also tasked with making a display so that the experimenters and veterinary surgeons could monitor the pig's heart rate and blood pressure, allowing them to identify any abnormalities.
 
-#### The design
+#### Design and implementation
 
-I designed, built and extensively tested the device over the course of one four month co-op term. It is currently being used in a series of experiments at SickKids, and the source code and drawings have been open-sourced so that other researchers can use and adapt the tool for their own experiments.
+I designed, built and extensively tested the gating device over the course of one four month co-op term. It is currently being used in a series of experiments at SickKids, and the source code and drawings have been open-sourced so that other researchers can use and adapt the tool for their own experiments. For technical details, please see the resources below.
 
 Resources:
 
