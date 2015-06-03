@@ -4,7 +4,7 @@ title: About me
 permalink: index.html
 ---
 
-Hello! I'm an aspiring medical device designer. I'm currently studying systems design engineering at the University of Waterloo, with a focus on biomedical signal processing and instrumentation. 
+I'm an aspiring medical device designer. I'm currently studying systems design engineering at the University of Waterloo, with a focus on biomedical signal processing and instrumentation. 
 
 ## Selected projects:
 
