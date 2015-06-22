@@ -9,11 +9,11 @@ categories:
 - Teensy
 ---
 
-I spent this weekend designing and building the main control board for my ongoing interactive fountain project. This board is responsible for controlling the water jet height and direction.
+I spent this weekend designing and building the main control board for my design group's ongoing interactive fountain project for SYDE 361. This board is responsible for controlling the water jet height and direction.
 
 #### Materials
 
-For a micro-controller we used the [Teensy-LC](https://www.pjrc.com/teensy/). Teensy is cheap ($12), Arduino compatible, and ideal for this style of rapid prototyping. Unlike development boards with headers, these can be plugged directly into a breadboard, or soldered into a circuit, which is super convenient.
+For the micro-controller I opted to use the [Teensy-LC](https://www.pjrc.com/teensy/). Teensy is cheap ($12), Arduino compatible, and ideal for this style of rapid prototyping. Unlike development boards with headers, these can be plugged directly into a breadboard, or soldered into a circuit, which is super convenient.
 
 We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams of water up to >1m high.
 
@@ -25,7 +25,7 @@ All of the remaining parts came from scrap bins, our personal supplies, and [fre
 
 #### Circuit Design
 
-My initial design involved driving a power mosfet with a PWM signal to switch the 12V supply on and off quickly and efficiently. Unfortunately, after extensive testing I was forced to abandon this approach, because the pumps would just cut out below a 75% duty cycle. Being form China, there is no real data sheet for these pumps, so I chose to abandon this approach. 
+My initial design involved driving a power mosfet with a PWM signal to switch the 12V supply on and off quickly and efficiently. Unfortunately, after extensive testing I was forced to abandon this approach, because the pumps would just cut out below a 75% duty cycle. Being Chinese knockoffs, there is no data sheet for these pumps, so I chose to abandon this approach. 
 
 The circuit I settled on this [reference design](http://www.edn.com/design/analog/4363990/Control-an-LM317T-with-a-PWM-signal). I opted to replace the LM317 with an [LM1085-ADJ](http://www.ti.com/lit/ds/symlink/lm1085.pdf), because the LM1085 has a a much lower dropout voltage. For the op-amp I used [LM6484](http://www.ti.com/lit/ds/symlink/lmc6484.pdf), because its output and common mode swing are large enough for it to work properly while being powered by the same 12V supply rail as the pump.
 
