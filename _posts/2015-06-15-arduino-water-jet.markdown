@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fountain Control Board
+title: Interactive Fountain Control Board
 date:   2015-06-10 22:48:45
 description: I spent this week designing and building a control board for my design group's interactive fountain project.
 categories:
