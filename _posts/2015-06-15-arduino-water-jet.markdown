@@ -25,9 +25,9 @@ All of the remaining parts came from scrap bins, our personal supplies, and [fre
 
 #### Circuit Design
 
-My initial design involved driving a power mosfet with a PWM signal to switch the 12V supply on and off quickly and efficiently. Unfortunately, after extensive testing I was forced to abandon this approach, because the pumps would just cut out below a 75% duty cycle. Being Chinese knockoffs, there is no data sheet for these pumps, so I chose to abandon this approach. 
+My initial design involved driving a power mosfet with a PWM signal to switch the 12V supply on and off quickly and efficiently. Unfortunately, after extensive testing I was forced to abandon this approach, because the pumps would just cut out below a 75% duty cycle. Being knockoffs, there is no data sheet for these pumps, so I chose to abandon this approach. 
 
-The circuit I settled on this [reference design](http://www.edn.com/design/analog/4363990/Control-an-LM317T-with-a-PWM-signal). I opted to replace the LM317 with an [LM1085-ADJ](http://www.ti.com/lit/ds/symlink/lm1085.pdf), because the LM1085 has a a much lower dropout voltage. For the op-amp I used [LM6484](http://www.ti.com/lit/ds/symlink/lmc6484.pdf), because its output and common mode swing are large enough for it to work properly while being powered by the same 12V supply rail as the pump.
+The circuit I settled on is based on this [reference design](http://www.edn.com/design/analog/4363990/Control-an-LM317T-with-a-PWM-signal). I opted to replace the LM317 with an [LM1085-ADJ](http://www.ti.com/lit/ds/symlink/lm1085.pdf), because the LM1085 has a a much lower dropout voltage. For the op-amp I used [LMC6484](http://www.ti.com/lit/ds/symlink/lmc6484.pdf), because its output and common mode swing are large enough for it to work properly while being powered by the same 12V supply rail as the pump. Also, the LMC6484 has an extremely convenient pinout for breadboard prototyping
 
 The schematic is shown below:
 
@@ -37,7 +37,7 @@ I built up the prototype on [an Adafruit perma-proto breadboard](http://www.adaf
 
 ![](/assets/img/amplifier-prototype.jpg)
 
-and a close up:
+Here's a closeup view of wiring:
 
 ![](/assets/img/amplifier-closup.JPG)
 
