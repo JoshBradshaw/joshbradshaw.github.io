@@ -19,7 +19,7 @@ I spent this weekend designing and building the main control board for my design
 4. For a power supply we used an ATX model that we pulled out of an ancient desktop computer. [This guide](http://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html) was extremely helpful to us.
 5. Texas instruments supplied me with free samples of LMC6468, LMC6462, and LM1085-ADJ, which I used in the amplifier.
 
-All of the remaining parts came from scrap bins, our personal supplies, and [free samples from TI](http://www.ti.com/general/docs/gencontent.tsp?contentId=69854).
+All of the remaining parts came from scrap bins, and our personal supplies.
 
 #### Circuit Design
 
