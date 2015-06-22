@@ -15,7 +15,7 @@ I spent this weekend designing and building the main control board for my design
 
 For the micro-controller I opted to use the [Teensy-LC](https://www.pjrc.com/teensy/). Teensy is cheap ($12), Arduino compatible, and ideal for this style of rapid prototyping. Unlike development boards with headers, these can be plugged directly into a breadboard, or soldered into a circuit, which is super convenient.
 
-We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams of water up to >1m high.
+We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams >1m high.
 
 For directional control of the jets we used [micro servos from Adafruit](http://www.adafruit.com/product/169). This is the [wiring diagram and code](http://www.arduino.cc/en/Tutorial/Sweep) that we used to test the board. I was initially concerned that these servos wouldn't work with 3v3 data signal with a 5V supply, but I tested it and it worked fine.
 
