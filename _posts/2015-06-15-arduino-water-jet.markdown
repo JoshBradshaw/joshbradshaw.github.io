@@ -15,11 +15,10 @@ I spent this weekend designing and building the main control board for my design
 
 For the micro-controller I opted to use the [Teensy-LC](https://www.pjrc.com/teensy/). Teensy is cheap ($12), Arduino compatible, and ideal for this style of rapid prototyping. Unlike development boards with headers, these can be plugged directly into a breadboard, or soldered into a circuit, which is super convenient.
 
-We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams >1m high.
-
-For directional control of the jets we used [micro servos from Adafruit](http://www.adafruit.com/product/169). This is the [wiring diagram and code](http://www.arduino.cc/en/Tutorial/Sweep) that we used to test the board. I was initially concerned that these servos wouldn't work with 3v3 data signal with a 5V supply, but I tested it and it worked fine.
-
-For a power supply we used an ATX model that we pulled out of an ancient desktop computer. [This guide](http://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html) was extremely helpful to us.
+1. We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams >1m high.
+2. For directional control of the jets we used [micro servos from Adafruit](http://www.adafruit.com/product/169). This is the [wiring diagram and code](http://www.arduino.cc/en/Tutorial/Sweep) that we used to test the board. I was initially concerned that these servos wouldn't work with 3v3 data signal with a 5V supply, but I tested it and it worked fine.
+3. For a power supply we used an ATX model that we pulled out of an ancient desktop computer. [This guide](http://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html) was extremely helpful to us.
+4. Texas instruments supplied me with free samples of LMC6468, LMC6462, and LM1085-ADJ, which I used in the amplifier.
 
 All of the remaining parts came from scrap bins, our personal supplies, and [free samples from TI](http://www.ti.com/general/docs/gencontent.tsp?contentId=69854).
 
@@ -37,7 +36,7 @@ I started by building a testing the circuit on a breadboard in the lab:
 
 ![](/assets/img/breadboard-model.jpg)
 
-Once I got the circuit working on the breadboard, I built up the prototype on [an Adafruit perma-proto breadboard](http://www.adafruit.com/products/590). The prototype has screw terminals for all five pumps, and for all of the servo motors. An overhead view of the board is shown below.
+Once I got the circuit working on the breadboard, Emma Cooper and I built the prototype on [an Adafruit perma-proto breadboard](http://www.adafruit.com/products/590). The prototype has screw terminals for all five pumps, and for all of the servo motors. An overhead view of the board is shown below.
 
 ![](/assets/img/amplifier-prototype.jpg)
 
@@ -53,7 +52,7 @@ P = (V<sup>in</sup> - V<sup>out</sup>) * I
 
 P = (12V - 5V) * 0.3A = 2.1W
 
-Each TO-220 silicon die of the TO-220 package is rated to dissipate only 0.25W, so heat sinking was required. We used clip on heat sinks which were rated to dissipate 4W each, and added a small fan inside the casing to help keep things cool. A more clever solution to this problem would be to use the water in the fountain to cool the board, but time was limited.
+The TO-220 silicon die of the LM1085 is rated to dissipate only 0.25W, so heat sinking was required. We used clip on heat sinks which were rated to dissipate 4W each, and added a small fan inside the casing to help keep things cool. A more clever solution to this problem would be to use the water in the fountain to cool the board, but time was limited.
 
 Another problem that I had to address was that according according to this [trace width table](http://www.hardwarebook.info/PCB_trace) the 16mil traces on our PCB were insufficient to meet the worst-case current requirements of our pumps and servos (approximately 1.6A), so we soldered 22 AWG wire to the bottom of all of the power traces.
 
