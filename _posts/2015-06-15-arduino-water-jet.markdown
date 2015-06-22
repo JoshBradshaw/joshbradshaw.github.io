@@ -53,4 +53,8 @@ Each TO-220 silicon die of the TO-220 package is rated to dissipate only 0.25W, 
 
 Another problem that I had to address was that according according to this [trace width table](http://www.hardwarebook.info/PCB_trace) the 16mil traces on our PCB were insufficient to meet the worst-case current requirements of our pumps and servos (approximately 1.6A), so we soldered 22 AWG wire to the bottom of all of the power traces.
 
+Here's a video of the basic test that I used to test each pump driver. The pumps are capable of spraying very high in the air, but I opted to run it deep underwater to avoid damaging my computer and camera.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2lOExlo4CRo" frameborder="0" allowfullscreen></iframe>
+
 Stay tuned for further write-ups about how we integrate this board with our lighting controller and raspberry-pi to make control the fountain over wifi.
