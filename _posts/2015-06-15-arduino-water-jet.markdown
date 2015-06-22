@@ -33,7 +33,11 @@ The schematic is shown below:
 
 ![](/assets/img/amplifier-circuit.jpg)
 
-I built up the prototype on [an Adafruit perma-proto breadboard](http://www.adafruit.com/products/590). The prototype has screw terminals for all five pumps, and for all of the servo motors. An overhead view of the board is shown below.
+I started by building a testing the circuit on a breadboard in the lab:
+
+![](/assets/img/breadboard-model.jpg)
+
+Once I got the circuit working on the breadboard, I built up the prototype on [an Adafruit perma-proto breadboard](http://www.adafruit.com/products/590). The prototype has screw terminals for all five pumps, and for all of the servo motors. An overhead view of the board is shown below.
 
 ![](/assets/img/amplifier-prototype.jpg)
 
