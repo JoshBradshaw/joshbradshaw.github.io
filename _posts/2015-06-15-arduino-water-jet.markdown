@@ -61,4 +61,4 @@ Here's a video of the basic test that I used to test each pump driver. The pumps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lOExlo4CRo" frameborder="0" allowfullscreen></iframe>
 
-Stay tuned for further write-ups about how we integrate this board with our lighting controller and raspberry-pi to make control the fountain over wifi.
+Stay tuned for further write-ups about how we integrate this board with our lighting controller and raspberry-pi to control the fountain over wifi.
