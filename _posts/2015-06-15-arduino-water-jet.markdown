@@ -49,8 +49,8 @@ P = (V<sup>in</sup> - V<sup>out</sup>) * I
 
 P = (12V - 5V) * 0.3A = 2.1W
 
-Another problem that I had to address was that according according to this [trace width table](http://www.hardwarebook.info/PCB_trace) the 16mil traces on our PCB were insufficient to meet the worst-case current requirements of our pumps and servos (approximately 1.6A), so we soldered 22 AWG wire to the bottom of all of the power traces.
-
 Each TO-220 silicon die of the TO-220 package is rated to dissipate only 0.25W, so heat sinking was required. We used clip on heat sinks which were rated to dissipate 4W each, and added a small fan inside the casing to help keep things cool. A more clever solution to this problem would be to use the water in the fountain to cool the board, but time was limited.
+
+Another problem that I had to address was that according according to this [trace width table](http://www.hardwarebook.info/PCB_trace) the 16mil traces on our PCB were insufficient to meet the worst-case current requirements of our pumps and servos (approximately 1.6A), so we soldered 22 AWG wire to the bottom of all of the power traces.
 
 Stay tuned for further write-ups about how we integrate this board with our lighting controller and raspberry-pi to make control the fountain over wifi.
