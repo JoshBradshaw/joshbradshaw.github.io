@@ -13,12 +13,11 @@ I spent this weekend designing and building the main control board for my design
 
 #### Materials
 
-For the micro-controller I opted to use the [Teensy-LC](https://www.pjrc.com/teensy/). Teensy is cheap ($12), Arduino compatible, and ideal for this style of rapid prototyping. Unlike development boards with headers, these can be plugged directly into a breadboard, or soldered into a circuit, which is super convenient.
-
-1. We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams >1m high.
-2. For directional control of the jets we used [micro servos from Adafruit](http://www.adafruit.com/product/169). This is the [wiring diagram and code](http://www.arduino.cc/en/Tutorial/Sweep) that we used to test the board. I was initially concerned that these servos wouldn't work with 3v3 data signal with a 5V supply, but I tested it and it worked fine.
-3. For a power supply we used an ATX model that we pulled out of an ancient desktop computer. [This guide](http://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html) was extremely helpful to us.
-4. Texas instruments supplied me with free samples of LMC6468, LMC6462, and LM1085-ADJ, which I used in the amplifier.
+1. For the micro-controller I opted to use the [Teensy-LC](https://www.pjrc.com/teensy/). Teensy is cheap ($12), Arduino compatible, and ideal for this style of rapid prototyping. Unlike development boards with headers, these can be plugged directly into a breadboard, or soldered into a circuit, which is super convenient.
+2. We ordered our pumps from China on [Aliexpress](http://www.aliexpress.com/store/product/12V-Mini-DC-Pump-3M-4-2W-Plastic-Aquarium-Pump-Submersible-240L-H-Super-long-life/912512_580455097.html). They are very powerful for the price. In tests we managed to produce streams >1m high.
+3. For directional control of the jets we used [micro servos from Adafruit](http://www.adafruit.com/product/169). This is the [wiring diagram and code](http://www.arduino.cc/en/Tutorial/Sweep) that we used to test the board. I was initially concerned that these servos wouldn't work with 3v3 data signal with a 5V supply, but I tested it and it worked fine.
+4. For a power supply we used an ATX model that we pulled out of an ancient desktop computer. [This guide](http://www.electronics-tutorials.ws/blog/convert-atx-psu-to-bench-supply.html) was extremely helpful to us.
+5. Texas instruments supplied me with free samples of LMC6468, LMC6462, and LM1085-ADJ, which I used in the amplifier.
 
 All of the remaining parts came from scrap bins, our personal supplies, and [free samples from TI](http://www.ti.com/general/docs/gencontent.tsp?contentId=69854).
 
