@@ -3,6 +3,7 @@ layout: post
 title: SMRT WATR Interactive Fountain
 date:   2015-07-23 22:48:45
 description: Overview + demo video of my group's SYDE 351 design project, an interactive water fountain + quiz game.
+permalink: smrtwatr.html
 categories:
 - Arduino
 - Robotics

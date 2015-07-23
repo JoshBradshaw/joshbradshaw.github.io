@@ -10,6 +10,8 @@ I'm an aspiring medical device designer. I'm currently studying systems design e
 
 #### [Arterial blood pressure triggering system](/abpt.html)
 
+#### [Interactive Water Fountain](/smrtwatr.html)
+
 #### [ECG monitor](https://github.com/JoshBradshaw/ECG-monitor) (in progress)
 
 #### [WatSat: cube satellite student design project](http://watsat.ca/)
