@@ -9,6 +9,8 @@ categories:
 - MRI
 ---
 
+![](/assets/img/ipb_unit.JPG)
+
 The Arterial Blood Pressure Triggering System was my primary project during my four month co-op term in Dr. Chris Macgowan's MRI lab at SickKids. Chris hired me because he needed instrumentation to synchronize MRI scans with the motion of fetal pig hearts, but the only solutions available cost >$25,000 and were not guaranteed to work.
 
 #### The problem
