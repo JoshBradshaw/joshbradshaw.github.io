@@ -21,6 +21,10 @@ We unveiled our fully functional prototype at our class's public design symposiu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUKH4mjTl4k" frameborder="0" allowfullscreen></iframe>
 
+This video shows a typical game in action:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdZsdQxUZdo" frameborder="0" allowfullscreen></iframe>
+
 The firmware and QuizDrop game are open source, and the code is [available on Github](https://github.com/Adam93MT/SMRTWATR).
 
 As of September, all of the members of this team will be moving away from the University to go on co-op. None of us wishes to take the fountain with us when we move, so we want to give it away (its worth approx $400 in materials alone) to a group of artists or group of students who want to do something interesting with it. If you want to acquire the fountain, post to our [Google+ page](https://plus.google.com/b/115760182356032680469/115760182356032680469/posts) explaining what you intend to use it for. You must be able to pick it up from Waterloo before August 15th.
