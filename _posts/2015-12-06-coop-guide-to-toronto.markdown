@@ -57,7 +57,7 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 16. Hiking along the Humber river on the west end -- go to Old Mill subway station, walk from there. It's quite beautiful in Winter.
 17. High Park / Christie Pits Park / Trinity Bellwoods Park / Kew Gardens -- this is where I could be found slacklining almost single day in 2014. These parks are beautiful, and you'll meet very friendly locals if you hang out in them.
 18. Scarborough Bluffs -- cool bike trip destination. The brave can bike down the near the edges of the bluffs on very steep trails (this may be illegal now). There's a marked network of suburban streets extending the Martin Goodman trail that you can use to bike here from downtown.
-19. Harbor-front -- The parks and walkways make for a great picnic location. Got around sunset (or sunrise if you're a crazy person).
+19. Harbor-front -- The parks and walkways make for a great picnic location. Watch the sunset there.
 20. Concerts at the EX -- these happen at the end of spring term and the start of fall term, I mention them here because they're affordable and the bands are usually great.
 21. Sailing in Ashbridges Bay -- admittedly I haven't actually done this yet, but it looks fun when I bike by.
 22. Exploring the Distillery District -- bring your camera. Pop into the galleries, the chocolate factory and try the special seasonal beers at Mill St that they only serve in their pub.
