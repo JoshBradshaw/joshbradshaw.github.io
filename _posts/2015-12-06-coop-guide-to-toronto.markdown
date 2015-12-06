@@ -22,29 +22,31 @@ In Fall and Winter, affordable apartments are typically found in the older build
 
 Here's a list of outings that I particularly enjoyed. Every term there is a Facebook group created called UW Watpub Toronto, and that's a great place to post events and meet other UW students in the city. In addition to these lists, there are tons of festivals and events in Toronto every single day. Use facebook and meetup.com to stay in the loop.
 
+Instead of given specific addresses in this list, I mostly just give neighborhood names. [This map of Toronto's neighborhoods is super useful for exploring.](http://www.blogto.com/neighbourhoods/) Most of these things are close enough to downtown that you can just walk there.
+
 ## Evening Activities and Nightlife
 
 1. Thursday Night at the Madison Avenue pub -- the Madison is a great University of Toronto hangout, and a typical UW co-op student meetup location. It's divided into dozens of rooms, each of which presents a different aesthetic. The piano lounge is particularly fun. $3.50 drinks.
 2. Einsteins open mic night (usually Wednesday) -- this event is hit and miss. If you're a musician it can be a fun place to play to a receptive crowd. $10 pitchers.
 3. Saturday night at the Horseshoe Tavern -- rock venue. The bands are consistently good. $10+ cover and $5+ drinks.
-4. Saturday night at the Reservoir lounge -- a cozy venue with kickass swing band. This place usually attracts an older crowd, but it's an awesome place to spend the evening once you get tired of the U of T watering holes. Also a good date location (reserve a table in advance and go early). $5 cover, $8 drinks.
+4. Saturday night at the Reservoir lounge -- a cozy venue with kickass swing band. This place usually attracts an older crowd, but it's an awesome place to spend the evening once you get tired of the U of T watering holes. Also a good date location (reserve a table in advance and go early). $5 cover, $8 drinks. Located on the East edge of the financial district.
 5. Green Room / Red Room / Pour Boy -- these are all owned by the same family and work by the same formula. Cheap drinks, cheap food that's pretty decent, nice atmosphere, and hit and miss service.
-6. Wednesday at the AGO -- free admission. Go with friends and visit a random cafe after. $3 drinks, $6 meals.
-7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because it was my 1A co-op and only a couple of my friends lived downtown. ~$40/month.
+6. Wednesday at the AGO -- free admission. Go with friends and visit a random cafe after. $3 drinks, $6 meals. Located on the West edge of the U of T neighborhood.
+7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because it was my 1A co-op and only a couple of my friends lived downtown. ~$40/month. Joe Rockheads is in Liberty Village, Boulderz and True North are at the distant edges of the city. 
 8. Snakes and Lattes / Snakes and Lagers -- take a group of 4+ for the best experience.
-9. Hot Docs Cinema -- cool theater.
-10. TIFF cinema -- see a classic movie and tour the building.
+9. Hot Docs Cinema -- cool theater. Located in the Annex neighborhood.
+10. TIFF cinema -- see a classic movie and tour the building. Located in the Annex neighborhood.
 11. City Hall Observation Deck -- Amazing view. You can see to the far side of the Toronto Island looking south, and past the edge of the city looking North. The deck is enclosed only by metal bars, with no glass, so it's a photographer's paradise. FREE.
-12. Events at MARS -- there are lots of different tech talks and groups that meet at MARS. This can be a great way to score a free lunch if you work in a nearby hospital ;).
+12. Events at MARS -- there are lots of different tech talks and groups that meet at MARS. This can be a great way to score a free lunch if you work in a nearby hospital ;). Located at the southern edge of University of Toronto, on Hospital row.
 13. Axe Throwing -- this is awesome, but expensive. If your company has a co-op committee or a social events committee try to get them to pay for this event.
-14. The Ram in the Rye -- this is Ryerson's bomber. I performed at open-mic night and had a pretty good time.
+14. The Ram in the Rye -- this is Ryerson's bomber. I performed at open-mic night and had a pretty good time. Located on the Ryerson campus.
 
 ## Weekend Activities
 
-1. Pottery class at the Gardiner museum -- cheap fun outing. ~$10 for the class + $5 to get your pieces fired. I built snoopy and he turned out great.
+1. Pottery class at the Gardiner museum -- cheap fun outing. ~$10 for the class + $5 to get your pieces fired. I built snoopy and he turned out great. Located in the middle of U of T.
 2. CN Tower -- I think that the CN tower is an overpriced and overrated outing, but if you've never been up there and you want to go, the best way to visit is to take a date up there for lunch in the Horizons restaurant. This will be a much more memorable experience than the normal observation deck tour, and its only marginally more expensive. 
 3. Ripley's Aquarium -- buy your tickets in advance to get a discount. This place looks small from the outside, but the exhibits go on much longer than you would expect, and I highly recommend going
-4. Skyzone Trampoline park -- this place is fun, but exhausting. Next door to Skyzone is the Amsterdam brewery, which offers free tours on weekends, and after the tour they'll usually treat you to unlimited free samples of their seasonal beers. This is an amazing way to spend a bad weather day with close friends.
+4. Skyzone Trampoline park -- this place is fun, but exhausting. Next door to Skyzone is the Amsterdam brewery, which offers free tours on weekends, and after the tour they'll usually treat you to unlimited free samples of their seasonal beers. This is an amazing way to spend a bad weather day with close friends. Located on the North East corner of the city, I recommend splitting an Uber there, because the bus route sucks.
 5. Biking the Martin Goodman Trail -- ride from the west end to the beaches, its a great Sunday afternoon jaunt.
 6. Visiting the Leslie street spit -- take a bike. This is a cool place to visit, but too boring to be worth hiking.
 7. Cherry Beach -- yes you can swim in Lake Ontario, don't be a coward.
