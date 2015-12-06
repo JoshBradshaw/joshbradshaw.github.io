@@ -65,3 +65,4 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 22. Exploring the Distillery District -- bring your camera. Pop into the galleries, the chocolate factory and try the special seasonal beers at Mill St that they only serve in their pub.
 23. Go to the top floor of the banks at Bay/King -- The view from the tops of these buildings is comparable to the CN tower view. Ask your finance friends to take you.
 24. Winterlicious / Summerlicious -- affordable fancy restaurant date. Yelp is your friend.
+25. Toronto Island -- classic day trip
