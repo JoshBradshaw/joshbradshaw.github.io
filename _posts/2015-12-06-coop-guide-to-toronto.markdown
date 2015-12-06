@@ -22,7 +22,7 @@ In Fall and Winter, affordable apartments are typically found in the older build
 
 Here's a list of outings that I particularly enjoyed. Every term there is a Facebook group created called UW Watpub Toronto, and that's a great place to post events and meet other UW students in the city. In addition to these lists, there are tons of festivals and events in Toronto every single day. Use facebook and meetup.com to stay in the loop.
 
-Instead of given specific addresses in this list, I mostly just give neighborhood names. [This map of Toronto's neighborhoods is super useful for exploring.](http://www.blogto.com/neighbourhoods/) Most of these things are close enough to downtown that you can just walk there. [BlogTO also publishes guides to each neighborhood.](http://www.blogto.com/torontomaps/)
+Instead of giving specific addresses in this list, I mostly just give neighborhood names. [This map of Toronto's neighborhoods is super useful for exploring.](http://www.blogto.com/neighbourhoods/) Most of these things are close enough to downtown that you can just walk there. [BlogTO also publishes guides to each neighborhood.](http://www.blogto.com/torontomaps/)
 
 ## Evening Activities and Nightlife
 
