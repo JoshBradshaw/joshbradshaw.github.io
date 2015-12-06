@@ -49,7 +49,7 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 6. Visiting the Leslie street spit -- take a bike. This is a cool place to visit, but too boring to be worth hiking.
 7. Cherry Beach -- yes you can swim in Lake Ontario, don't be a coward.
 8. Slackline Toronto -- slacklining has developed a cult following in Toronto. I went to the events in Trinity-Bellwoods every single Sunday and made several close friends there. 
-9. Royal Ontario Museum -- the ROM has free admission days for students, and you can also get free passes by signing up for a Toronto library membership.
+9. Royal Ontario Museum -- the ROM has free admission days for students, and you can also get [free passes to ~10 museums from the Toronto Library.](http://www.torontopubliclibrary.ca/museum-arts-passes/)
 10. Skating at Nathan Phillips Square / the Waterfront Rink -- cheap skate rentals available.
 11. Urban exploration -- there's a very cool basement that runs underneath the hospitals on Gerrard St. connecting them all together through a labyrinth of tunnels.
 12. Exploring Toronto's Neighborhoods -- you can walk to and explore Chinatown, Little Italy, the Annex, Kensington, the Fashion District, ect. Slightly further afield you have little Portugal, little Vietnam, Koreatown, Queen West, the Danforth ect. Spend an afternoon checking out each one.
