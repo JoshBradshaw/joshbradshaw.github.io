@@ -30,7 +30,7 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 4. Saturday night at the Reservoir lounge -- a cozy venue with kickass swing band. This place usually attracts an older crowd, but it's an awesome place to spend the evening once you get tired of the U of T watering holes. Also a good date location (reserve a table in advance and go early). $5 cover, $8 drinks.
 5. Green Room / Red Room / Pour Boy -- these are all owned by the same family and work by the same formula. Cheap drinks, cheap food that's pretty decent, nice atmosphere, and hit and miss service.
 6. Wednesday at the AGO -- free admission. Go with friends and visit a random cafe after. $3 drinks, $6 meals.
-7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because is was my 1A co-op and very few of my friends lived downtown and I couldn't go to the 19+ co-op meetup events. ~$40/month.
+7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because it was my 1A co-op and only a couple of my friends lived downtown. ~$40/month.
 8. Snakes and Lattes / Snakes and Lagers -- take a group of 4+ for the best experience.
 9. Hot Docs Cinema -- cool theater.
 10. TIFF cinema -- see a classic movie and tour the building.
