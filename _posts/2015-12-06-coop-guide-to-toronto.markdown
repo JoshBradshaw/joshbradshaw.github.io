@@ -35,6 +35,8 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 10. TIFF cinema -- see a classic movie and tour the building.
 11. City Hall Observation Deck -- Amazing view. You can see to the far side of the Toronto Island looking south, and past the edge of the city looking North. The deck is enclosed only by metal bars, with no glass, so it's a photographer's paradise.
 12. Events at MARS -- there are lots of different tech talks and groups that meet at MARS. This can be a great way to score a free lunch if you work in a nearby hospital ;).
+13. Axe Throwing -- this is awesome, but expensive. If your company has a co-op committee or a social events committee try to get them to pay for this event.
+14. 
 
 ## Weekend Activities
 
@@ -54,7 +56,11 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 14. Open Doors TO -- not to be missed. Pick the buildings you want to tour in advance.
 15. Tours of St. Andrew's Cathedral -- architectural masterpiece, go when the organist is playing.
 16. Hiking along the Humber river on the west end -- go to Old Mill subway station, walk from there. It's quite beautiful in Winter.
-17. High Park / Christie Pits Park / Trinity Bellwoods Park / Kew Gardens -- this is where I could be found slacklining almost single day of 2014. These parks are beautiful, and you'll meet very friendly locals if you hang out in them.
+17. High Park / Christie Pits Park / Trinity Bellwoods Park / Kew Gardens -- this is where I could be found slacklining almost single day in 2014. These parks are beautiful, and you'll meet very friendly locals if you hang out in them.
 18. Scarborough Bluffs -- cool bike trip destination. The brave can bike down the near the edges of the bluffs on very steep trails (this may be illegal now). There's a marked network of suburban streets extending the Martin Goodman trail that you can use to bike here from downtown.
 19. Harbor-front -- The parks and walkways make for a great picnic location. Got around sunset (or sunrise if you're a crazy person).
 20. Concerts at the EX -- these happen at the end of spring term and the start of fall term, I mention them here because they're affordable and the bands are usually great.
+21. Sailing in Ashbridges Bay -- admittedly I haven't actually done this yet, but it looks fun when I bike by.
+22. Exploring the Distillery District -- bring your camera. Pop into the galleries, the chocolate factory and try the special seasonal beers at Mill St that they only serve in their pub.
+23. Go to the top floor of the banks at Bay/King -- The view from the tops of these buildings is comparable to the CN tower view. Ask your finance friends to take you.
+24. Winterlicious / Summerlicious -- affordable fancy restaurant date. Yelp is your friend.
