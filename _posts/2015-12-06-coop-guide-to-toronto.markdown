@@ -8,7 +8,7 @@ categories:
 - Work Term
 ---
 
-I've spent four great work terms in Toronto, and I frequently get asked for recommendations. Here, I've compiled all of those recommendations, in no particular order.
+I've spent four great work terms in Toronto, and I frequently get asked for recommendations. Here I've compiled all of those recommendations in no particular order.
 
 ## Where to Live
 
