@@ -36,6 +36,7 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 11. City Hall Observation Deck -- Amazing view. You can see to the far side of the Toronto Island looking south, and past the edge of the city looking North. The deck is enclosed only by metal bars, with no glass, so it's a photographer's paradise. FREE.
 12. Events at MARS -- there are lots of different tech talks and groups that meet at MARS. This can be a great way to score a free lunch if you work in a nearby hospital ;).
 13. Axe Throwing -- this is awesome, but expensive. If your company has a co-op committee or a social events committee try to get them to pay for this event.
+14. The Ram in the Rye -- this is Ryerson's bomber. I performed at open-mic night and had a pretty good time.
 
 ## Weekend Activities
 
