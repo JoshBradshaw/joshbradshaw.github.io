@@ -8,13 +8,13 @@ categories:
 - Work Term
 ---
 
-I've spent four great work terms in Toronto, and I frequently get asked for recommendations. Here I've compiled all of those recommendations in no particular order.
+I spent four works terms in Toronto, and I had great adventures there. Toronto is a really wonderful city, with limitless affordable entertainment. One of my favorite days ever on co-op was an afternoon in which I met five new friends, explored the Island, watched a world cup game in Little Italy, then spontaneously threw a rooftop party. When living the UW grind, your free time is precious, and I hope that this post will give you inspiration for your own great adventures in the city.
 
 ## Where to Live
 
 I recommend living downtown. Downtown living is expensive, but that expense is justified by how much fun you'll have. Finding a good apartment downtown can be a frustrating experience, because the local students will have already snatched up every affordable place by the time you start looking. Spring term is the exception. In spring term you can live in University of Toronto or Ryerson residence, or sublet a nice place.
 
-In Fall or Winter terms, you can expect to pay $500-$800/month for a compromise downtown apartment. A compromise apartment is one in which you compromise on location, space, privacy, or all of the above. A typical way to lower the cost of living is to cram more people into an apartment than there are bedrooms. This style of living does lead to some awkward situations, such as inviting your significant other to spend the night in a living room fort, but with good friends and a sense of humor this can be a fun lifestyle. 
+In Fall or Winter terms, you can expect to pay $500-$800/month for a compromise downtown apartment. A compromise apartment is one in which you compromise on location, space, privacy, or all of the above. A typical way to lower the cost of living is to cram more people into an apartment than there are bedrooms. This style of living does lead to some awkward situations, such as inviting your significant other to spend the night in a living room fort, but with good friends and a sense of humor this can be a fun lifestyle.
 
 In Fall and Winter, affordable apartments are typically found in the older buildings surrounding Ryerson, such as 250 Jarvis St., 40 Gerrard St E., and the building behind 250 Jarvis St. on Carleton St. These buildings are comprised of two bedroom apartments, which you can cram 3+ people into as required by your budget. There are similar living arrangements available in the small buildings surrounding Kensington. The apartments can be sketchy, so be sure to check the UW [off campus safety checklist.](https://uwaterloo.ca/off-campus-housing/sites/ca.off-campus-housing/files/uploads/files/OCH_Checklist.pdf). Those with more money than me can rent at Tartu college, or the apartments on lower Yonge street. UW students studying finance often sign full year leases on nice Toronto condos with financial assistance from their parents, then sublet them throughout the year. Those places are expensive and very nice.
 
