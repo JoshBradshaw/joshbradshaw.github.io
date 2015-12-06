@@ -24,7 +24,7 @@ Here's a list of outings that I particularly enjoyed. Every term there is a Face
 
 ## Evening Activities and Nightlife
 
-1. Thursday Night at the Madison Avenue pub -- the Madison is a great University of Toronto hangout. It's divided into dozens of rooms, each of which presents a different aesthetic. The piano lounge is particularly fun. $3.50 drinks.
+1. Thursday Night at the Madison Avenue pub -- the Madison is a great University of Toronto hangout, and a typical UW co-op student meetup location. It's divided into dozens of rooms, each of which presents a different aesthetic. The piano lounge is particularly fun. $3.50 drinks.
 2. Einsteins open mic night (usually Wednesday) -- this event is hit and miss. If you're a musician it can be a fun place to play to a receptive crowd. $10 pitchers.
 3. Saturday night at the Horseshoe Tavern -- rock venue. The bands are consistently good. $10+ cover and $5+ drinks.
 4. Saturday night at the Reservoir lounge -- a cozy venue with kickass swing band. This place usually attracts an older crowd, but it's an awesome place to spend the evening once you get tired of the U of T watering holes. Also a good date location (reserve a table in advance and go early). $5 cover, $8 drinks.
