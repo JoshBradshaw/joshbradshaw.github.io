@@ -35,7 +35,7 @@ Instead of given specific addresses in this list, I mostly just give neighborhoo
 7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because it was my 1A co-op and only a couple of my friends lived downtown. ~$40/month. Joe Rockheads is in Liberty Village, Boulderz and True North are at the distant edges of the city. 
 8. Snakes and Lattes / Snakes and Lagers -- take a group of 4+ for the best experience.
 9. Hot Docs Cinema -- cool theater. Located in the Annex neighborhood.
-10. TIFF cinema -- see a classic movie and tour the building. Located in the Annex neighborhood.
+10. TIFF cinema -- see a classic movie and tour the building. Located in the Entertainment district.
 11. City Hall Observation Deck -- Amazing view. You can see to the far side of the Toronto Island looking south, and past the edge of the city looking North. The deck is enclosed only by metal bars, with no glass, so it's a photographer's paradise. FREE.
 12. Events at MARS -- there are lots of different tech talks and groups that meet at MARS. This can be a great way to score a free lunch if you work in a nearby hospital ;). Located at the southern edge of University of Toronto, on Hospital row.
 13. Axe Throwing -- this is awesome, but expensive. If your company has a co-op committee or a social events committee try to get them to pay for this event.
