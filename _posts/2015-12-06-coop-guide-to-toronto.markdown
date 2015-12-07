@@ -5,7 +5,7 @@ date:   2015-12-06 22:48:45
 description: My suggestions for how Waterloo students doing co-op in Toronto can best enjoy their limited time in the city.
 categories:
 - Co-op
-- uWaterloo
+- Work Term
 ---
 
 I spent four works terms in Toronto, and I had great adventures there. Toronto is a really wonderful city, with limitless affordable entertainment. One of my favorite days ever on co-op was an afternoon in which I met five new friends, explored the Island, watched a world cup game in Little Italy, then spontaneously threw a rooftop party. When living the UW grind, your free time is precious, and I hope that this post will give you inspiration for your own great adventures in the city.
