@@ -8,7 +8,7 @@ categories:
 - MRI
 ---
 
-Over the last few months I've been redesigning the IBP triggering system that I built for SickKids during my Winter 2015 work term as a small volunteer project. The new prototype is shown below (I took this picture before installing the MRI shields). This system uses the Transpac IV pressure measurement system, which means that its cheaper and simpler than the previous version that I built with the Samba Sensors optical measurement system.
+Over the last few months I've been redesigning the IBP triggering system that I built for SickKids during my Winter 2015 work term as a small volunteer project. The new prototype is shown below (I took this picture before installing the MRI shields). This system uses the Transpac IV pressure measurement system, which means that it's cheaper and simpler than the previous version that I built with the Samba Sensors optical measurement system.
 
 The new version is simpler, cheaper and MRI compatible. I will be returning to SickKids to test this new design on the 15th. If this system works well then I will update the documentation and put build instructions online here. I think that the total cost of this system including the Transpac IV sensor will be ~$200.
 
