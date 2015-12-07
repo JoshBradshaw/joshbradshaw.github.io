@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  uWaterloo Guide to Resolving Housing Disputes
-date:   2013-12-07 22:48:45
+date:   2014-12-07 22:48:45
 description: A condensed version of an article that I wrote for the uWaterloo campus newspaper about dealing with housing disputes.
 categories:
 - Co-op
