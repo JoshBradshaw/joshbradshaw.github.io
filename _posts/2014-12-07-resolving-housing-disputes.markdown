@@ -13,9 +13,10 @@ categories:
 Many of the property management companies in Waterloo have nasty business practices, that range from questionable to criminal. I have been forced to spend a disproportionate amount of time this term in conflict with a property management company over their complete refusal to perform maintenance to our extremely damaged rental unit (the damage was inflicted by the previous tenants). This process has been extremely frustrating, and I've learned a lot about how to stand up for my rights as a tenant in the process. I've decided to compile this post to help other students in similar conflicts with standing up for their legal rights as tenants.
 
 ## Before pursuing any legal action:
-Check if the landlord is in violation of the landlord-tenant act. http://www.ltb.gov.on.ca/en/STEL02_111281.html
-Collect all the evidence you possibly can. I recommend taking pictures and emailing them your landlord (so that you have proof of notice, and a time/date stamp). Depending on the issue, taking a video and uploading it to youtube is also a good idea.
-Contact Waterloo's off campus housing office and ask them for any advice they have for your particular case. They're knowledgeable and they answer email quickly.
+1. [Check if the landlord is in violation of the landlord-tenant act.](http://www.ltb.gov.on.ca/en/STEL02_111281.html)
+2. Collect all the evidence you possibly can. I recommend taking pictures and emailing them your landlord (so that you have proof of notice, and a time/date stamp). Depending on the issue, taking a video and uploading it to youtube is also a good idea.
+3. Contact uWaterloo's off campus housing office and ask them for any advice they have for your particular case. They're knowledgeable and they answer email quickly.
+
 Once you've completed steps 1 and 2, it's time to choose the best method of action for your case.
  
 ## City Bylaw Enforcement
@@ -30,7 +31,7 @@ A thorough description of how to make an application to the board is available h
 It costs $40 to make an application, but the landlord may be forced to pay your fees if the landlord-tenant board decide in your favor. Landlord-tenant hearings are a fairly easy process, your do not need a lawyer and hearings take place at Service Ontario, which is easily accessible by bus. Hearings last approximately an hour, and you will have a judgement and payment within a matter of weeks if they rule in your favor.
  
 ## Small Claims Court
-If you've been screwed over by a landlord in a way that isn't explicitly covered in Ontario's landlord-tenant act (the victims of the Schembri Scandal would be a good example), or if you no longer live in the bad landlord's property, you may sue them in Ontario's small claims court. Here is a page outlining the process: http://www.attorneygeneral.jus.gov.on.ca/english/courts/scc/b4aClaim.asp
+If you have a dispute with a landlord that isn't explicitly covered in Ontario's landlord-tenant act (the victims of the Schembri Scandal would be a good example), or if you no longer live in the bad landlord's property, you may sue them in Ontario's small claims court. Here is a page outlining the process: http://www.attorneygeneral.jus.gov.on.ca/english/courts/scc/b4aClaim.asp
 The statue of limitations on many of the things that bad landlords do is relatively long, so you can sue them even if you've since left the property and ended the lease.
  
 ## Final Notes
