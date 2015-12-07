@@ -15,5 +15,6 @@ The new version is simpler, cheaper and MRI compatible. I will be returning to S
 ![](/assets/img/abp-update.JPG)
 
 Two papers that inspired the design of the new system are:
-1. http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6551726&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6551726
-2. http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1291140&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1291140
+
+1. [HDMI Cables for MRI Applications](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6551726&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6551726)
+2. [Automatic Realtime Detection of Arterial Blood Pressure Pulses](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1291140&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1291140)
