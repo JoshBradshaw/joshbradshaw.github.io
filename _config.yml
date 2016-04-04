@@ -20,9 +20,9 @@ harmony:
   meta_description: 
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Josh Bradshaw
-    email: joshbradshaw11@gmail.com
-    url: joshbradshaw.ca
+    name: Gayan Virajith
+    email: gayanvirajith@gmail.com
+    url: http://gayanvirajith.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-63195004-1
