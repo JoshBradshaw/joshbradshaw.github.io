@@ -45,7 +45,7 @@ Instead of giving specific addresses in this list, I mostly just give neighborho
 ## Weekend Activities
 
 1. Pottery class at the Gardiner museum -- cheap fun outing. ~$10 for the class + $5 to get your pieces fired. I built snoopy and he turned out great. Located in the middle of U of T.
-2. CN Tower -- I think that the CN tower is an overpriced and overrated outing, but if you've never been up there and you want to go, the best way to visit is to take a date up there for lunch in the Horizons restaurant. This will be a much more memorable experience than the normal observation deck tour, and its only marginally more expensive. 
+2. CN Tower -- I think that the CN tower is an overpriced and overrated outing, but if you've never been up there and you want to go, the best way to visit is to go for lunch in the Horizons restaurant. This will be a much more memorable experience than the normal observation deck tour, and its only marginally more expensive. 
 3. Ripley's Aquarium -- buy your tickets in advance to get a discount. This place looks small from the outside, but the exhibits go on much longer than you would expect, and I highly recommend going
 4. Skyzone Trampoline park -- this place is fun, but exhausting. Next door to Skyzone is the Amsterdam brewery, which offers free tours on weekends, and after the tour they'll usually treat you to unlimited free samples of their seasonal beers. This is an amazing way to spend a bad weather day with close friends. Located on the North East corner of the city, I recommend splitting an Uber there, because the bus route sucks.
 5. Biking the Martin Goodman Trail -- ride from the west end to the beaches, its a great Sunday afternoon jaunt.
