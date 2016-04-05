@@ -28,7 +28,7 @@ Instead of giving specific addresses in this list, I mostly just give neighborho
 ## Evening Activities and Nightlife
 
 1. Thursday Night at the Madison Avenue pub -- the Madison is a great University of Toronto hangout, and a typical UW co-op student meetup location. It's divided into dozens of rooms, each of which presents a different aesthetic. The piano lounge is particularly fun. $3.50 drinks.
-2. Einsteins open mic night (usually Wednesday) -- this event is hit and miss. If you're a musician it can be a fun place to play to a receptive crowd. $10 pitchers.
+2. Einsteins open mic night (usually Wednesday) -- this event is hit and miss. If you're a musician it can be a fun place to play to a receptive crowd. $10 pitchers + free drinks for performers.
 3. Saturday night at the Horseshoe Tavern -- rock venue. The bands are consistently good. $10+ cover and $5+ drinks.
 4. Saturday night at the Reservoir lounge -- a cozy venue with kickass swing band. This place usually attracts an older crowd, but it's an awesome place to spend the evening once you get tired of the U of T watering holes. Also a good date location (reserve a table in advance and go early). $5 cover, $8 drinks. Located on the East edge of the financial district.
 5. Green Room / Red Room / Pour Boy -- these are all owned by the same family and work by the same formula. Cheap drinks, cheap food that's pretty decent, nice atmosphere, and hit and miss service.
@@ -58,14 +58,14 @@ Instead of giving specific addresses in this list, I mostly just give neighborho
 12. Exploring Toronto's Neighborhoods -- you can walk to and explore Chinatown, Little Italy, the Annex, Kensington, the Fashion District, ect. Slightly further afield you have little Portugal, little Vietnam, Koreatown, Queen West, the Danforth ect. Spend an afternoon checking out each one.
 13. Little Theatre on the Danforth -- nice outing or date. Very cheap.
 14. Open Doors TO -- not to be missed. Pick the buildings you want to tour in advance. Free.
-15. Tours of St. Andrew's Cathedral -- architectural masterpiece, go when the organist is playing.
+15. Tours of St. Andrew's Cathedral -- architectural masterpiece, go when the organist is playing. Free.
 16. Hiking along the Humber river on the west end -- go to Old Mill subway station, walk from there. It's quite beautiful in Winter.
 17. High Park / Christie Pits Park / Trinity Bellwoods Park / Kew Gardens -- this is where I could be found slacklining almost single day in 2014. These parks are beautiful, and you'll meet very friendly locals if you hang out in them.
 18. Scarborough Bluffs -- cool bike trip destination. The brave can bike down the near the edges of the bluffs on very steep trails (this may be illegal now). There's a marked network of suburban streets extending the Martin Goodman trail that you can use to bike here from downtown.
 19. Harbor-front -- The parks and walkways make for a great picnic location. Watch the sunset there.
 20. Concerts at the EX -- these happen at the end of spring term and the start of fall term, I mention them here because they're affordable and the bands are usually great.
 21. Sailing in Ashbridges Bay -- admittedly I haven't actually done this yet, but it looks fun when I bike by.
-22. Exploring the Distillery District -- bring your camera. Pop into the galleries, the chocolate factory and try the special seasonal beers at Mill St that they only serve in their pub.
+22. Exploring the Distillery District -- bring your camera. Pop into the galleries, the chocolate factory and try the special seasonal beers at Mill St that they only serve in their pub. Free.
 23. Go to the top floor of the banks at Bay/King -- The view from the tops of these buildings is comparable to the CN tower view. Ask your finance friends to take you.
 24. Winterlicious / Summerlicious -- affordable fancy restaurant date. Yelp is your friend with this one.
-25. Toronto Island -- classic day trip. Costs something like $12 to ferry over, or make an adventure of it and use a canoe or raft.
+25. Toronto Island -- classic day trip. Costs something like $12 to ferry over (there's a student discount), or make an adventure of it and use a canoe or raft.
