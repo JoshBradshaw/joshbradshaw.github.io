@@ -16,13 +16,14 @@ I recommend living downtown. Downtown living is expensive, but that expense is j
 
 In Fall or Winter terms, you can expect to pay $500-$800/month for a compromise downtown apartment. A compromise apartment is one in which you compromise on location, space, privacy, or all of the above. A typical way to lower the cost of living is to cram more people into an apartment than there are bedrooms. This style of living does lead to some awkward situations, such as inviting your significant other to spend the night in a living room fort, but with good friends and a sense of humor this can be a fun lifestyle.
 
-In Fall and Winter, affordable apartments are typically found in the older buildings surrounding Ryerson, such as 250 Jarvis St., 40 Gerrard St E., and the building behind 250 Jarvis St. on Carleton St. These buildings are comprised of two bedroom apartments, which you can cram 3+ people into as required by your budget. There are similar living arrangements available in the small buildings surrounding Kensington. The apartments can be sketchy, so be sure to check the UW [off campus safety checklist.](https://uwaterloo.ca/off-campus-housing/sites/ca.off-campus-housing/files/uploads/files/OCH_Checklist.pdf). Those with more money than me can rent at Tartu college, or the apartments on lower Yonge street. UW students studying finance often sign full year leases on nice Toronto condos with financial assistance from their parents, then sublet them throughout the year. Those places are expensive and very nice.
+In Fall and Winter, affordable apartments are typically found in the older buildings surrounding Ryerson, such as 250 Jarvis St., 40 Gerrard St E., and the building behind 250 Jarvis St. on Carleton St. These buildings are comprised of two bedroom apartments, which you can cram 3+ people into as required by your budget. There are similar living arrangements available in the small buildings surrounding Kensington. The apartments can be sketchy, so be sure to check the UW [off campus safety checklist.](https://uwaterloo.ca/off-campus-housing/sites/ca.off-campus-housing/files/uploads/files/OCH_Checklist.pdf). Those with more money than me can rent at Tartu college, or the apartments on lower Yonge street. UW students studying finance often sign full year leases on nice Toronto condos with financial assistance from their parents, then sublet them throughout the year.
 
 # Activities
 
 Here's a list of outings that I particularly enjoyed. Every term there is a Facebook groups created called UW Co-op connection Toronto and UW Watpub Toronto, and that's a great place to post events and meet other UW students in the city. In addition to these lists, there are tons of festivals and events in Toronto every single day. Use facebook and meetup.com to stay in the loop.
 
-Instead of giving specific addresses in this list, I mostly just give neighborhood names. [This map of Toronto's neighborhoods is super useful for exploring.](http://www.blogto.com/neighbourhoods/) Most of these things are close enough to downtown that you can just walk there. [BlogTO also publishes guides to each neighborhood.](http://www.blogto.com/torontomaps/)
+Instead of giving specific addresses in this list, I mostly just give neighborhood names. [This map of Toronto's neighborhoods is super useful for exploring.](http://www.blogto.com/neighbourhoods/) Most of these things are close enough to downtown that you can just walk there. [BlogTO also publishes guides to each neighborhood.](http://www.blogto.com/torontomaps/).
+
 
 ## Evening Activities and Nightlife
 
@@ -31,8 +32,8 @@ Instead of giving specific addresses in this list, I mostly just give neighborho
 3. Saturday night at the Horseshoe Tavern -- rock venue. The bands are consistently good. $10+ cover and $5+ drinks.
 4. Saturday night at the Reservoir lounge -- a cozy venue with kickass swing band. This place usually attracts an older crowd, but it's an awesome place to spend the evening once you get tired of the U of T watering holes. Also a good date location (reserve a table in advance and go early). $5 cover, $8 drinks. Located on the East edge of the financial district.
 5. Green Room / Red Room / Pour Boy -- these are all owned by the same family and work by the same formula. Cheap drinks, cheap food that's pretty decent, nice atmosphere, and hit and miss service.
-6. Wednesday at the AGO -- free admission. Go with friends and visit a random cafe after. $3 drinks, $6 meals. Located on the West edge of the U of T neighborhood.
-7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because it was my 1A co-op and only a couple of my friends lived downtown. ~$40/month. Joe Rockheads is in Liberty Village, Boulderz and True North are at the distant edges of the city. 
+6. Wednesday at the AGO -- free admission. Go with friends and visit a random cafe after.
+7. Climbing at Joe Rockheads / Boulderz / True North -- I love climbing and on of my work terms I got a Joe Rockheads membership. It was a great way to spend the evenings in the winter, especially because it was my 1A co-op and only a couple of my friends lived downtown. ~$40/month. Joe Rockheads is in Liberty Village, Boulderz and True North are at the distant edges of the city. Update: there's a new gym called base camp in Christie Pits.
 8. Snakes and Lattes / Snakes and Lagers -- take a group of 4+ for the best experience.
 9. Hot Docs Cinema -- cool theater. Located in the Annex neighborhood.
 10. TIFF cinema -- see a classic movie and tour the building. Located in the Entertainment district.
@@ -50,13 +51,13 @@ Instead of giving specific addresses in this list, I mostly just give neighborho
 5. Biking the Martin Goodman Trail -- ride from the west end to the beaches, its a great Sunday afternoon jaunt.
 6. Visiting the Leslie street spit -- take a bike. This is a cool place to visit, but too boring to be worth hiking.
 7. Cherry Beach -- yes you can swim in Lake Ontario, don't be a coward.
-8. Slackline Toronto -- slacklining has developed a cult following in Toronto. I went to the events in Trinity-Bellwoods every single Sunday and made several close friends there. 
+8. Slackline Toronto -- slacklining has developed a cult following in Toronto. I went to the events in Trinity-Bellwoods every single Sunday and made several close friends there. This is a great, free, way to spend a day in the summer.
 9. Royal Ontario Museum -- the ROM has free admission days for students, and you can also get [free passes to ~10 museums from the Toronto Library.](http://www.torontopubliclibrary.ca/museum-arts-passes/)
-10. Skating at Nathan Phillips Square / the Waterfront Rink -- cheap skate rentals available.
-11. Urban exploration -- there's a very cool basement that runs underneath the hospitals on Gerrard St. connecting them all together through a labyrinth of tunnels.
+10. Skating at Nathan Phillips Square / the Waterfront Rink. Free admission with cheap skate rentals available if you need them. Buying skates second hand is totally worth it on Winter term.
+11. Urban exploration -- there's a very cool basement that runs underneath the hospitals on Gerrard St. connecting them all together through a labyrinth of tunnels. There are also abandoned subway stations, drainage tunnels ect. I haven't done much urban exploring but a lot of the Toronto slackline club members do it.
 12. Exploring Toronto's Neighborhoods -- you can walk to and explore Chinatown, Little Italy, the Annex, Kensington, the Fashion District, ect. Slightly further afield you have little Portugal, little Vietnam, Koreatown, Queen West, the Danforth ect. Spend an afternoon checking out each one.
-13. Little Theatre on the Danforth -- nice outing or date.
-14. Open Doors TO -- not to be missed. Pick the buildings you want to tour in advance.
+13. Little Theatre on the Danforth -- nice outing or date. Very cheap.
+14. Open Doors TO -- not to be missed. Pick the buildings you want to tour in advance. Free.
 15. Tours of St. Andrew's Cathedral -- architectural masterpiece, go when the organist is playing.
 16. Hiking along the Humber river on the west end -- go to Old Mill subway station, walk from there. It's quite beautiful in Winter.
 17. High Park / Christie Pits Park / Trinity Bellwoods Park / Kew Gardens -- this is where I could be found slacklining almost single day in 2014. These parks are beautiful, and you'll meet very friendly locals if you hang out in them.
@@ -66,5 +67,5 @@ Instead of giving specific addresses in this list, I mostly just give neighborho
 21. Sailing in Ashbridges Bay -- admittedly I haven't actually done this yet, but it looks fun when I bike by.
 22. Exploring the Distillery District -- bring your camera. Pop into the galleries, the chocolate factory and try the special seasonal beers at Mill St that they only serve in their pub.
 23. Go to the top floor of the banks at Bay/King -- The view from the tops of these buildings is comparable to the CN tower view. Ask your finance friends to take you.
-24. Winterlicious / Summerlicious -- affordable fancy restaurant date. Yelp is your friend.
-25. Toronto Island -- classic day tripnb 
+24. Winterlicious / Summerlicious -- affordable fancy restaurant date. Yelp is your friend with this one.
+25. Toronto Island -- classic day trip. Costs something like $12 to ferry over, or make an adventure of it and use a canoe or raft.
