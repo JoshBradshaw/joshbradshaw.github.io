@@ -1,8 +1,9 @@
-_site/
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
 .DS_Store
-.*.swp
-.idea
-.sass-cache/
-*~
-bourbon/
-Gemfile.lock
+Thumbs.db
+ehthumbs.db
