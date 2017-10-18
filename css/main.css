@@ -792,3 +792,8 @@ color: #f1c40f;
   width: 100%;
   height: 100%;
 }
+
+/* style image captions */
+img + em { 
+
+}

@@ -17,7 +17,7 @@ baseurl: ""
 title: Josh Bradshaw
 
 # Short description of your site
-description: Josh Bradshaw's online resume and portfolio.
+description: online resume and portfolio.
 
 # --- Navigation bar options --- #
 
@@ -32,6 +32,7 @@ description: Josh Bradshaw's online resume and portfolio.
 navbar-links:
   Bio: ""
   Projects: "projects"
+  Articles: "articles"
   Resume: "pdfs/Josh_Bradshaw_CV.pdf"
 
 

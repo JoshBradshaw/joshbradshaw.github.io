@@ -2,7 +2,6 @@
 layout: page
 title: 'Skeleprint'
 subtitle: 'A 3D Printer for Bone Graft Prototyping'
-extjs: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 ---
 
 ![](/img/projects/skeleprint/thumb.jpg)
