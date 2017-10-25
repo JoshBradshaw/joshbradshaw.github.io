@@ -13,9 +13,9 @@ This is a collection showcasing my personal and academic projects, as well as a 
 
 During university I did two co-op terms at the Hospital for Sick Children (SickKids) under the supervision of [Dr. Chris Macgowan](http://www.sickkids.ca/AboutSickKids/Directory/People/M/christopher-macgowan-staff-profile.html). While I was working there, Dr. Macgowan primarily focused on fetal cardiac imaging using MRI.
 
-- **[PressureTrigger: an MRI cardiac triggering system.](pressuretrigger)** One of the major challenges in cardiac MRI is synchronizing the relatively slow MRI aquisition with the patient's cardiac cycle. During my internship at the hospital for Sick Children, I was tasked with building a system that used surgically implanted blood pressure probes to trigger the MRI scanners in real time.
+- **[PressureTrigger: an MRI cardiac triggering system.](pressuretrigger)** One of the major challenges in cardiac MRI is synchronizing the relatively slow MRI aquisition with the patient's cardiac cycle. During my internship at the hospital for Sick Children, I was tasked with building a system that used surgically implanted blood pressure probes to trigger the MRI scanners in real time. This system was used extensively in animal research.
 
-- **[Bloodtools: an image processing suite for real time fetal MRI analysis.](bloodtools)** I worked on commercializing an MRI acquisition protocol that allowed radiologists to non-invasively measure fetal blood oxygen saturation and hematocrit. Bloodtools was a software application that allowed clinical researchers to carry out the measurement protocol independently, without direct assistance from the scientists who developed the protocol.
+- **[Bloodtools: an image processing suite for real time fetal MRI analysis.](bloodtools)** I worked on commercializing a measurement protocol that allowed radiologists to non-invasively measure fetal blood oxygen saturation and hematocrit using a series of MRI images. Bloodtools was a software application that allowed clinical researchers to carry out the measurement protocol independently, without direct assistance from the scientists who developed the protocol.
 
 
 ## Academic Projects
