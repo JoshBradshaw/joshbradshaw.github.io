@@ -66,4 +66,4 @@ My implementation of this algorithm is [available on github](https://github.com/
 
 ## Monitoring
 
-A simple software tool was created to show the blood pressure traces and the gating trigger locations.
+A piece of software was created to show the blood pressure traces and the gating trigger locations.

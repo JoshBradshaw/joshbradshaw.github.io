@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: my personal and academic project showcase
+subtitle: My personal and academic project showcase
 ---
 
 This is a collection showcasing my personal and academic projects, as well as a few professional projects for which I have permission to share some project details.
@@ -25,11 +25,10 @@ Throughout my engineering degree I strived to create an elaborate final project 
 
 - **[MRI Compatible Amplifier for Invasive Blood Pressure Probes](/pdfs/SYDE_362_IBP_Measurement_System_Final_Report.pdf)**. As my third year design project, I decided to build an extension upon the cardiac gating MRI triggering system that I built for the Hospital for Sick Children during my internship. In the original system, I used a high end blood pressure transducer from Samba sensors that cost ($13,000), because the lab happened to already have one in stock. After my internship, the Samba unit started to malfunction, so I decided to try building a simpler low cost alternative in the ($150-300) price range. I was sucessful, and this amplifier has been used in several published experiments.
 
-- **[SMRT WATR: An Interative Water Fountain](projects/smrtwatr)** was my third year design project. Our goal was to use internet of things (IOT) technology to provide entertainment encourage social interaction in public spaces. I worked on this project with [Emma Cooper](https://www.linkedin.com/in/emmamcooper/), [Matt Jones](https://www.linkedin.com/in/matt--jones/), [Isaac Hunter](https://isaachunter.ca/), [Adam Thompson](http://adamthompson.ca/), and Shubh Jagani. Based on this goal, we decided to create a mechanized water fountain which would react dynamically while users played an online quiz game. We managed to create a fully functional (if somewhat leaky) protoype, complete with four moving water jets, and a great deal of software controllable LED lighting.
+- **[SMRT WATR: An Interative Water Fountain](smrtwatr)** was my third year design project. Our goal was to use internet of things (IOT) technology to provide entertainment encourage social interaction in public spaces. I worked on this project with [Emma Cooper](https://www.linkedin.com/in/emmamcooper/), [Matt Jones](https://www.linkedin.com/in/matt--jones/), [Isaac Hunter](https://isaachunter.ca/), [Adam Thompson](http://adamthompson.ca/), and Shubh Jagani. Based on this goal, we decided to create a mechanized water fountain which would react dynamically while users played an online quiz game. We managed to create a fully functional (if somewhat leaky) protoype, complete with four moving water jets, and a great deal of software controllable LED lighting.
 
 - **[Neural Simulation of Lamprey Swimming](../pdfs/LampreySwimming.pdf)** this was my final project for [SYDE 556 - Simulating Neurobiological Systems](http://compneuro.uwaterloo.ca/courses/syde-750.html). As an extension of a [paper published by Dwight Kuo and Chris Eliasmith](http://arts.uwaterloo.ca/~celiasmi/Papers/kuo.eliasmith.2004.zebrafish%20swimming.neuroc.pdf) I derived a model for the spinal cord motion of the swimming lamprey and implemented it in python using the Neural Engineering Framework.
 
-- **[Non-contact EEG Electrodes](projects/noncontacteeg)** this was my final project for [SYDE 444 - Biomedical Measurement]. This was a relatively straightforward project, our goal was to implement the wireless non-contact EEG/ECG measurement system published by [Yu M. Chi and Gert Cauwenberghs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.7050&rep=rep1&type=pdf), and evaluate its performance. To add some challenge, we attempted to cut the overall cost of manufacture of the device in half.
 
 ## Crowdlab at the University of Waterloo
 

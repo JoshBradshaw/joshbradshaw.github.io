@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Infinity Mirror
-subtitle: a simple piece of electronic art
+subtitle: Some Electronic Art
 use-site-title: true
 ---
 
@@ -13,4 +13,7 @@ I didn't want this to burn my friend's house down, so I used an Anker power supp
 
 Here's a quick video demo I took before packaging it up as a Christmas gift. This thing is seriously bright. It looks great in any lighting dimmer than direct sunlight.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oavbHisQols" frameborder="0" allowfullscreen></iframe>
+
+<div class="videoWrapper">
+    <iframe src="https://www.youtube.com/embed/oavbHisQols" frameborder="0" allowfullscreen></iframe>
+</div>

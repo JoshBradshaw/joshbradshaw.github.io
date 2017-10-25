@@ -4,11 +4,11 @@ title: Bloodtools
 subtitle: An open-source tool for MRI image analysis
 ---
 
-TODO add link to github
+This project is open-source and [available on Github](https://github.com/JoshBradshaw/bloodtools).
 
 ![](/img/projects/bloodtools/thumb.jpg)
 
-*The bloodtools image processing tool. The image shown here is a 2D slice accross a warming bath filled with test tubes of blood that was provided by human volunteers.*
+*The bloodtools image processing tool. The image shown here is a 2D slice accross a warming bath filled with test tubes of blood.*
 
 ## Background
 
