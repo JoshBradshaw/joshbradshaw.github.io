@@ -39,7 +39,11 @@ To trigger the the MRI scanner, the minimum components required were:
 
 ## Probe System
 
-For the pressure probe, I opted to use the disposable Transpac IV blood pressure transducer produced by ICU medical. These transducers were a great solution, because they're MRI compatible and inexpensive. As shown in their [excellent training video](https://www.youtube.com/watch?v=ryCPqoQK1Rw), the Transpac IV can be connected to a generic arterial catheter and measure the blood pressure that is transmitted through the fluid column in the IV line. 
+In my first prototype of this device, I used the [Samba Preclin pressure transducer](http://harvardbioscience.ca/HAC-Samba.html). These pressure transducers worked well for our application, because the sensing element was fibre optic and composed only of plastic and glass fiber. This meant that the sensor was totally MRI compatible and did not produce any image artifacts.
+
+I was able to get the entire gating system up and running using these pressure transuducers without much trouble. Unfortunately, the fiber optic sensing elements proved to be too delicate and when we started testing and we broke all of our sensors within the first few animal experiments that we used this apparatus for. To add insult to injury, Samba sensors went bankrupt within the same year, so we couldn't order more.
+
+For the second revision, I opted to use the disposable Transpac IV blood pressure transducer produced by ICU medical. These transducers were a great solution, because they're MRI compatible and inexpensive. As shown in their [excellent training video](https://www.youtube.com/watch?v=ryCPqoQK1Rw), the Transpac IV can be connected to a generic arterial catheter and measure the blood pressure that is transmitted through the fluid column in the IV line. 
 
 Internally, the blood pressure works by placing a [strain gauge in the wheatstone bridge configuration](http://www.ni.com/white-paper/3642/en/) in line with the IV fluid column. That means that an amplifier is required to energize the bridge and measure the tiny voltage difference across the strain gauge.
 
