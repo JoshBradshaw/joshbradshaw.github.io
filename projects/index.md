@@ -18,6 +18,8 @@ During university I did two co-op terms at the Hospital for Sick Children (SickK
 - **[Bloodtools: an image processing suite for real time fetal MRI analysis.](bloodtools)** I worked on commercializing a measurement protocol that allowed radiologists to non-invasively measure fetal blood oxygen saturation and hematocrit using a series of MRI images. Bloodtools was a software application that allowed clinical researchers to carry out the measurement protocol independently, without direct assistance from the scientists who developed the protocol.
 
 
+---
+
 ## Academic Projects
 
 Throughout my engineering degree I strived to create an elaborate final project for each course. My most interesting projects are listed here.
@@ -31,9 +33,14 @@ Throughout my engineering degree I strived to create an elaborate final project 
 - **[Neural Simulation of Lamprey Swimming](../pdfs/LampreySwimming.pdf)** this was my final project for [SYDE 556 - Simulating Neurobiological Systems](http://compneuro.uwaterloo.ca/courses/syde-750.html). As an extension of a [paper published by Dwight Kuo and Chris Eliasmith](http://arts.uwaterloo.ca/~celiasmi/Papers/kuo.eliasmith.2004.zebrafish%20swimming.neuroc.pdf) I derived a model for the spinal cord motion of the swimming lamprey and implemented it in python using the Neural Engineering Framework.
 
 
+---
+
 ## Crowdlab at the University of Waterloo
 
 - **[crowdEEG Annotation Interface.](http://crowdeeg.ca/)** I was the initial developer of crowdEEG, an online EEG annotaion interface that is used to crowdsource EEG annotation tasks. Crowdsourcing EEG annotation is desirable for building machine learning data sets, because it means that a large dataset can be assembled quickly and inexpensively.
+
+
+---
 
 ## Electronic Art
 

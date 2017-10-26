@@ -11,4 +11,4 @@ S. Pan, K. Larson, J. Bradshaw and E. Law. Dynamic Task Allocation Algorithm for
 
 ## Blog Posts
 
-[An Introduction to Cardiac MRI Imaging](cardiac_mri)
+[An Introduction to Cardiac MRI Imaging - Oct 26 2017](cardiac_mri)

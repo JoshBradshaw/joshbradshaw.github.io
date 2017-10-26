@@ -4,6 +4,8 @@ title: 'PressureTrigger'
 subtitle: 'A cardiac MRI triggering system for use in animal imaging experiments'
 ---
 
+The code for this project is open source and [available on Github](https://github.com/JoshBradshaw/IBP-Reciever). If you're interested in the hardware, please contact me.
+
 ![](/img/projects/pressuretrigger/DSC01219.jpg)
 
 *The blood pressure amplifier and digital signal processing (DSP) module that I created*
