@@ -39,7 +39,7 @@ Given that our goal was to print cylindrical bone grafts. We had to adapt the st
 
 We build the first prototype to figure out if extruding the ink onto a rotating mandrel was a workable concept. We opted to simply place a rotating mandrel into an existing cartesian 3D printer and use it to print some helical layers. A photograph of one of the early tests is shown below.
 
-![Plywood grain structure illustration](/img/projects/skeleprint/prototype1.jpg)
+![Plywood grain structure illustrationn](/img/projects/skeleprint/prototype1.jpg)
 
 ## Specifications
 
@@ -57,7 +57,7 @@ Rotational | < 100
 Resolution Specification | Value (microns) | Full Scale Range (mm)
 Radial  | < 150 | 6000
 Axial | 100 | 22000
-Rotational | 200 | $2 \pi radians$ 
+Rotational | 200 | $2 pi radians$ 
 
 ## Final Printer Prototype
 

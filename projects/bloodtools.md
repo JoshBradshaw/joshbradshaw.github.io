@@ -12,13 +12,13 @@ This project is open-source and [available on Github](https://github.com/JoshBra
 
 ## Background
 
-In spring 2016 I was working with Sharon Portnoy on the final experiments of her PHD in the experimental medicine department at SickKids Hospital. Her PHD involved the [development of a method for measuring the oxygen saturation and hematocrit of fetal blood using MRI.](http://onlinelibrary.wiley.com/doi/10.1002/mrm.26599/abstract) This measurement was very useful, because it allowed radiologists the opportunity to diagnose congenital heart defects before birth that would otherwise be impossible to detect so early on.
+In spring 2016 I was working with Sharon Portnoy on the final experiments of her PHD in the experimental medicine department at SickKids Hospital. Her PHD involved the [development of a method for measuring the oxygen saturation and hematocrit of fetal blood using MRI.](http://onlinelibrary.wiley.com/doi/10.1002/mrm.26599/abstract) This new measurement technique was useful, because it allowed radiologists the opportunity to diagnose congenital heart defects before birth that would otherwise be impossible to detect so early.
 
 Measurement of blood oxygen saturation and hematocrit in MRI is accomplished using a technique called MR relaxometry. In relaxometry, the MRI scanner is used to measure the material's longitudinal and transverse magnetization recovery times, which are called T1 and T2 respectively. 
 
 The measurement protocol involved:
 
-1. Imaging the fetal heart using a specialized MRI acquisition sequence that Portnoy designed to capture a series of images of the blood vessel under study. These image series were specially calibrated such that they could be used to determine the T1 and T2 times of the blood in that vessel.
+1. Imaging the fetal heart using a specialized MRI acquisition sequence designed to capture a series of images of the blood vessel under study. These image series were specially calibrated such that they could be used to determine the T1 and T2 times of the blood in that vessel.
 2. Opening each calibrated image series of the blood vessel in question and drawing regions of interest (ROIs) around the blood contained there.
 3. Running a script that extracted the intensity value of each pixel in region of interest, and used a fitting algorithm to determine the T1 or T2 decay curve of the blood in the vessel.
 4. Solving a system of equations to determine the blood oxygen saturation and hematocrit values that corresponded to the T1 and T2 recovery times of the tissue.
@@ -27,11 +27,11 @@ The measurement protocol involved:
 
 Once the measurement protocol for blood oxygen saturation and hematocrit had been established and verified by Portnoy, a clinical research group at the hospital wanted to begin using it for experimental imaging. Their plan was to image women with high risk pregnancies, and use the measurements to estimate whether the fetuses exhibited a range of conditions including fetal anemia, hypoxia, and congenital heart defects.
 
-While the clinical researchers were highly skilled at identifying anatomy in MRI, they did not have the software acumen to carry out the measurement protocol as it was. It was necessary to create a commercialized version of the measurement procedure that made it as simple as possible to carry out the measurements and do the analysis while keeping up with the demanding pace of the clinical setting.
+While the clinical researchers were highly skilled at identifying anatomy in MRI, they did not have the software acumen to carry out the measurement protocol using the scripts that the researchers were using. It was necessary to create a commercialized version of the measurement procedure that made it as simple as possible to carry out the measurements and do the analysis while keeping up with the demanding pace of the clinical setting.
 
 ## Display Design
 
-To design the analysis tool, I spent a day shadowing the clinical researchers while they were scanning a pregnant volunteer. I observed the way they went about locating the blood vessels, and took notes on how they organized and saved the image files. During these sessions, I discovered that fetal blood vessels are difficult to spot, and that the researchers often make use of image windowing and artificial color to locate the smaller vessels. Artificial color is useful, because it makes flowing blood stand out against the background more.
+To design the analysis tool, I spent a day shadowing the clinical researchers while they were scanning a pregnant volunteer. I observed the way they went about locating the fetal blood vessels, and took notes on how they organized and saved the image files. During these sessions, I discovered that fetal blood vessels are difficult to spot, and that the researchers often make use of image windowing and artificial color to locate the smaller vessels. Artificial color is useful, because it makes flowing blood stand out against the background more.
 
 Based on these observations, I built a tool that allowed the researchers to pan through the images. To make the process as efficient as possible, the image was displayed in both greyscale and  artificial color side by side. They could zoom into or pan around either image, or change the windowing to enhance the contrast.
 

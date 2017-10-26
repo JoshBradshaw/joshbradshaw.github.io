@@ -8,8 +8,7 @@ subtitle: 'An Interactive Water Fountain Quiz Game'
 
 ## Purpose
 
-For our second third year design project, we were challenged to use internet of things (IOT) technology to address a problem of our choosing. We decided to use IOT technology to create a piece of electronic art, that would encourage social interaction among its viewers. We created a multiplayer quiz game and a robotic fountain that reacts to users' answers, where the winner was given control over the fountain's motion.
-
+For our third year design project, we were challenged to use internet of things (IOT) technology to address a problem of our choosing. We decided to use IOT technology to create a piece of electronic art, that would encourage social interaction among its viewers. We created a multiplayer quiz game and a robotic fountain that reacts to users' answers, where the winner was given control over the fountain's motion.
 
 ## Role
 
