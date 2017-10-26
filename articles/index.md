@@ -1,10 +1,9 @@
 ---
 layout: page
 title: 'Articles'
-subtitle: 'a collection of my writings'
+subtitle: 'A collection of my writings'
 ---
 
-These are a few pieces of writing and publications of mine that I think are worth showcasing.
 
 ## Conference Papers
 
