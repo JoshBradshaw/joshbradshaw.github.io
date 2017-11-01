@@ -15,7 +15,7 @@ During university I did two co-op terms at the Hospital for Sick Children (SickK
 
 - **[PressureTrigger: A cardiac MRI triggering system for use in animal imaging experiments.](pressuretrigger)** -- Specialized hardware for gating MRI scanners using arterial blood pressure.
 
-- **[Bloodtools: an image processing suite for real time fetal MRI analysis.](bloodtools)** -- An image analysis software application used by radiologists to test a new MRI measurement in a clincial setting.
+- **[Bloodtools: an image processing suite for real time fetal MRI analysis.](bloodtools)** -- An image analysis software application used by radiologists to test a new MRI measurement in a clinical setting.
 
 
 ---
@@ -26,9 +26,9 @@ Throughout my engineering degree I strived to create an elaborate final project 
 
 - **[Skeleprint - A 3D printer for bone graft prototyping](skeleprint)** -- bone graft prototyping using a specialized 3D printer.
 
-- **[MRI Compatible Amplifier for Arterial Blood Pressure Probes](/pdfs/SYDE_362_IBP_Measurement_System_Final_Report.pdf)**. -- Specialized hardware for gating MRI scanners using arterial blood pressure.
+- **[MRI Compatible Amplifier for Arterial Blood Pressure Probes](/pdfs/SYDE_362_IBP_Measurement_System_Final_Report.pdf)**. -- An MRI compatible amplifier for strain gauge type arterial blood pressure sensors.
 
-- **[SMRT WATR: An Interative Water Fountain](smrtwatr)** -- An interactive water fountain linked with an online quiz game.
+- **[SMRT WATR: An Interactive Water Fountain](smrtwatr)** -- An interactive water fountain linked with an online quiz game.
 
 - **[Neural Simulation of Lamprey Swimming](../pdfs/LampreySwimming.pdf)** this was my final project for [SYDE 556 - Simulating Neurobiological Systems](http://compneuro.uwaterloo.ca/courses/syde-750.html). As an extension of a [paper published by Dwight Kuo and Chris Eliasmith](http://arts.uwaterloo.ca/~celiasmi/Papers/kuo.eliasmith.2004.zebrafish%20swimming.neuroc.pdf) I derived a model for the spinal cord motion of the swimming lamprey and implemented it in python using the Neural Engineering Framework.
 
@@ -37,7 +37,7 @@ Throughout my engineering degree I strived to create an elaborate final project 
 
 ## Crowdlab at the University of Waterloo
 
-- **[crowdEEG Annotation Interface.](http://crowdeeg.ca/)** I was the initial developer of crowdEEG, an online EEG annotaion interface that is used to crowdsource EEG annotation tasks. Crowdsourcing EEG annotation is desirable for building machine learning data sets, because it means that a large dataset can be assembled quickly and inexpensively.
+- **[crowdEEG Annotation Interface.](http://crowdeeg.ca/)** I was the initial developer of crowdEEG, an online EEG annotaion interface that is used to crowd source EEG annotation tasks. Crowd sourcing EEG annotation is desirable for building machine learning data sets, because it means that a large dataset can be assembled quickly and inexpensively.
 
 
 ---
