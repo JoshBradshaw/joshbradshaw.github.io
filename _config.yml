@@ -1,7 +1,7 @@
 # Setup
 title:               Josh Bradshaw
 tagline:             # left intentionally blank
-description:         # left intentionally blank
+description:         ''
 url:                 https://joshbradshaw.me
 baseurl:             ''
 paginate:            5
