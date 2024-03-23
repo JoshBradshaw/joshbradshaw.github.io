@@ -9,7 +9,7 @@ My name is Josh Bradshaw and I'm a software engineer based in Cambridge Massachu
 
 # Work
 
-I currently work at Formlabs, a manufacturer of 3D printers. Formlabs builds [SLA](https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/) and [SLS](https://formlabs.com/blog/what-is-selective-laser-sintering/) printers, with a goal of improving the accessibility of these advanced manufacturing techniques. I'm a software technical lead, [spearheading work on selective laser sintering](https://www.linkedin.com/feed/update/urn:li:activity:7164683477626404864/). I lead a team that focuses on improving print mechanical properties, print yield and process throughput.
+I currently work at Formlabs, a manufacturer of 3D printers. Formlabs builds [SLA](https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/) and [SLS](https://formlabs.com/blog/what-is-selective-laser-sintering/) printers, with the goal of improving the accessibility of these advanced manufacturing techniques. I'm a software technical lead, [spearheading work on selective laser sintering](https://www.linkedin.com/feed/update/urn:li:activity:7164683477626404864/). I lead a team that focuses on improving print mechanical properties, print yield and process throughput.
 
 # Education
 
