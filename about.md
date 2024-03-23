@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About
 ---
 
 My name is Josh Bradshaw and I'm a software engineer based in Cambridge Massachusetts.
