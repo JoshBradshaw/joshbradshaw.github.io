@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-![](assets/headshot.jpg)
+My name is Josh Bradshaw and I'm a software engineer based in Cambridge Massachusetts.
 
-I'm a software engineer based in Cambridge Massachusetts.
+![](assets/headshot.jpg)
 
 # Work
 
