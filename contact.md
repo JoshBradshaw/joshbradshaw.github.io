@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
 
 The best way to contact me is by email. If you are in the Boston area I'm always happy to meet at a local bakery / cafe.
