@@ -18,7 +18,7 @@ The video below (from the Formlabs marketing release) illustrates the improvemen
 Coverage on LinkedIn by:
 
 - [Nick Graham, Chief Revenue Officer](https://www.linkedin.com/feed/update/urn:li:activity:7163227755894001665?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7163227755894001665%29)
-- [David Lakatos, CTO](https://www.linkedin.com/posts/david-lakatos-1b299b16_3dprinting-formlabs-activity-7162837119562973186-Nre6?utm_source=share&utm_medium=member_desktop)
+- [David Lakatos, Chief Technical Officer](https://www.linkedin.com/posts/david-lakatos-1b299b16_3dprinting-formlabs-activity-7162837119562973186-Nre6?utm_source=share&utm_medium=member_desktop)
 
 This media announcement encompasses the work I did at formlabs in 2023. I originally proposed these performance improvements to Fuse 1+ to CEO Max Lobovsky in November 2022, and Max approved my proposal with enthusiasm.
 
