@@ -7,7 +7,9 @@ Most of the work I do at Formlabs has been on the backend. Process optimizations
 
 The video below (from Formlabs marketing release) illustrates the improvements I made: 
 
-<iframe width="100%" src="https://www.youtube.com/embed/u_PzdP95Pao" title="FuseComparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="auto-resizable-iframe">
+<iframe src="https://www.youtube.com/embed/u_PzdP95Pao" title="FuseComparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Coverage on LinkedIn by:
 
