@@ -3,7 +3,7 @@ layout: post
 title: My Work on Formlabs Fuse 1+ Process Optimizations 
 ---
 
-Most of the work I do at Formlabs has been on the backend. I work on the secret sauce that differentiates formlabs from the competition. This is why I was so pleased when formlabs marketing team decided to [make public and highlight one of my recent projects](https://formlabs.com/blog/sls-speed-sla-build-volume-improvements/).
+Most of the work I do at Formlabs has been on the backend and hidden from view. I work on the secret sauce that differentiates formlabs from the competition. This is why I was so pleased when formlabs marketing team decided to [make public and highlight one of my recent projects](https://formlabs.com/blog/sls-speed-sla-build-volume-improvements/).
 
 The video below (from the Formlabs marketing release) illustrates the improvements I made: 
 
