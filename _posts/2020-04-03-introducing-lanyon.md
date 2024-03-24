@@ -5,7 +5,7 @@ title: My Work on Formlabs Fuse 1+ Process Optimizations
 
 Most of the work I do at Formlabs has been on the backend. Process optimizations, embedded software, and thermal modelling. I work on the secret sauce that differentiates formlabs from the competition. This is why I was so pleased when formlabs marketing team decided to [make public and highlight one of my recent projects](https://formlabs.com/blog/sls-speed-sla-build-volume-improvements/).
 
-The video below (from Formlabs marketing release) illustrates the improvements I made: 
+The video below (from the Formlabs marketing release) illustrates the improvements I made: 
 
 <div class="auto-resizable-iframe">
 <iframe src="https://www.youtube.com/embed/u_PzdP95Pao" title="FuseComparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
